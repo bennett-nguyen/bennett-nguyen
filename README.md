@@ -9,7 +9,7 @@
 
 - 👋 Hi, I'm Bennett
 - 🇬🇧 I'm 16 years old and I'm Vietnamese, I speak Vietnamese, English and a little bit of French
-- 🔭 I make stupid programs. Currently, I'm making a parady of Friday Night Funkin'
+- 🔭 I make stupid programs. Currently, I'm making a parody of Friday Night Funkin'
 - ❤ Python is my beloved programming language <3
 
 
