@@ -13,4 +13,4 @@
 - ❤ Python is my beloved programming language <3
 
 
-I don't have an email for reaching out will y'all but I'll make one in future.
+I don't have an email for reaching out will y'all but I'll make one in the future.
