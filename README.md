@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Bennett
-- 🇬🇧 I'm 16 years old and I'm Vietnamese, I speak Vietnamese and English
+- 🇬🇧 I'm 17 years old and I'm Vietnamese, I speak Vietnamese and English
 - 🔭 I'm kind of busy because of school so stuff I'm making is pretty abitrary.
 - ❤ Python is my beloved programming language
 
