@@ -16,6 +16,7 @@ A 17 year-old Vietnamese who's interested in programming and mathematics. All of
 
 <hr>
 
+
 ### ⚙ Tools
 
 <img align="left" alt="OpenGL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg"/>
@@ -28,6 +29,14 @@ A 17 year-old Vietnamese who's interested in programming and mathematics. All of
 <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="CMake" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
 <img align="left" alt="VSCode" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<br/>
+<br/>
+<br/>
 
+#
+
+### 📊 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennett-nguyen&theme=github_dark)](https://github.com/bennett-nguyen/github-readme-stats)
           
 
