@@ -1,7 +1,7 @@
 # ✨「阮永富」Nguyễn Vĩnh Phú - Bennett Nguyen
 `Amateur Graphics Programmer / Linux Enjoyer / Professional Procrastinator`
 
-An 18 year-old Vietnamese who's interested in programming and mathematics. All of my work is purely for fun and experimentation and serves no purposes... other than being educational. Currently working on my Minecraft clone called [Chisel](https://github.com/bennett-nguyen/ChiselEngine).
+An 18 year-old Vietnamese who's interested in programming and mathematics. All of my work is purely for fun and experimentation and serves no purposes... other than being educational. Currently working on my Minecraft clone called [Chisel](https://github.com/bennett-nguyen/ChiselEngine), though continous progress isn't guaranteed since I've had other buisness to attend to.
 
 <p align="left">
         <a href="https://github.com/bennett-nguyen/ChiselEngine">
