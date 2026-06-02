@@ -33,10 +33,3 @@ An 18 year-old Vietnamese who's interested in programming and mathematics. All o
 <br/>
 <br/>
 
-#
-
-### 📊 Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennett-nguyen&theme=github_dark)](https://github.com/bennett-nguyen/github-readme-stats)
-          
-
